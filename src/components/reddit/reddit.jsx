@@ -30,7 +30,7 @@ return (
       </NavDropdown>
     </Nav> */}
     <Form inline>
-      <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+      <FormControl type="text" placeholder="Search" className="mr-sm-2" style = {{width:"500px"}} />
       <Button variant="outline-success">Search</Button>
     </Form>
   {/* </Navbar.Collapse> */}
