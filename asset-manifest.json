@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/css/main.83a7cea3.chunk.css",
+    "main.js": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/main.0e6acac5.chunk.js",
+    "main.js.map": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/main.0e6acac5.chunk.js.map",
+    "runtime-main.js": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/runtime-main.6327a3cc.js",
+    "runtime-main.js.map": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/runtime-main.6327a3cc.js.map",
+    "static/css/2.150d169a.chunk.css": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/css/2.150d169a.chunk.css",
+    "static/js/2.1a57290d.chunk.js": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/2.1a57290d.chunk.js",
+    "static/js/2.1a57290d.chunk.js.map": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/2.1a57290d.chunk.js.map",
+    "index.html": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.83a7cea3.chunk.css.map": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/css/main.83a7cea3.chunk.css.map",
+    "static/js/2.1a57290d.chunk.js.LICENSE.txt": "/abdulqadeer1999.github.io/React-routers-and-making-reddit-/static/js/2.1a57290d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6327a3cc.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1a57290d.chunk.js",
+    "static/css/main.83a7cea3.chunk.css",
+    "static/js/main.0e6acac5.chunk.js"
+  ]
+}
