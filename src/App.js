@@ -16,6 +16,7 @@ import './components/login/login.css'
 import Login from './components/login/login'
 import Dashboard from './components/dashboard/dashboard'
 import Reddit from './components/reddit/reddit'
+import Redit from './components/Redit/redit'
 
 function App() {
   return (
@@ -26,6 +27,8 @@ function App() {
 <Dashboard /> */}
 
 {/* <Reddit /> */}
+
+{/* <Redit /> */}
 
 
 
@@ -72,11 +75,13 @@ function App() {
 
 
 
-
+  
 
 </Switch> 
 
 </Router>
+
+<Redit />
 
 
 

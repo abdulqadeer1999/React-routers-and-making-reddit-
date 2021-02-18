@@ -1,6 +1,8 @@
 // import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import { Button, Navbar } from 'react-bootstrap'
+
+import Redit from '../Redit/redit'
 import { Button, Navbar, Nav, NavItem, NavDropdown, MenuItem ,FormControl,Form,Card,ListGroupItem,ListGroup} from 'react-bootstrap';
 
 
@@ -11,6 +13,8 @@ return (
     <div>
    
 <h1>Reddit</h1>
+
+
 
 <Navbar bg="light" expand="lg">
   {/* <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand> */}
@@ -35,6 +39,7 @@ return (
     </Form>
   {/* </Navbar.Collapse> */}
 </Navbar>
+
 <Card style={{ width: '18rem',margin :"10px",display:"inline-block" }}>
   <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
   <Card.Body>
@@ -95,8 +100,8 @@ return (
     <Card.Link href="#">Another Link</Card.Link>
   </Card.Body> */}
 </Card>
-<Card style={{ width: '18rem' , margin : "10px", display : "inline-block",height : "10rem" }}>
-  <Card.Img variant="top" src="https://i.imgur.com/5nz74oo.jpg" />
+<Card style={{ width: '18rem' , margin : "10px", display : "inline-block" }}>
+  <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
   <Card.Body>
     <Card.Title>Card Title</Card.Title>
     <Card.Text>
@@ -113,10 +118,16 @@ return (
     <Card.Link href="#">Card Link</Card.Link>
     <Card.Link href="#">Another Link</Card.Link>
   </Card.Body> */}
+
+
 </Card>
+<Redit />
    </div>
+
+
 )
 
 }
+
 
 export default Reddit;
