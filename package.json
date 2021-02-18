@@ -2,7 +2,7 @@
   "name": "routers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/abdulqadeer1999.github.io/React-routers-and-making-reddit-",
+  "homepage": "https://abdulqadeer1999.github.io/React-routers-and-making-reddit-",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
